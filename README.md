@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0008-string-to-integer-atoi](https://github.com/nikhilwadh/DSA/tree/master/0008-string-to-integer-atoi) |
+| [0151-reverse-words-in-a-string](https://github.com/nikhilwadh/DSA/tree/master/0151-reverse-words-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/nikhilwadh/DSA/tree/master/0451-sort-characters-by-frequency) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/nikhilwadh/DSA/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Sorting
@@ -35,4 +36,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/nikhilwadh/DSA/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+## Two Pointers
+|  |
+| ------- |
+| [0151-reverse-words-in-a-string](https://github.com/nikhilwadh/DSA/tree/master/0151-reverse-words-in-a-string) |
 <!---LeetCode Topics End-->
