@@ -1,4 +1,4 @@
-class Solution {
+/*lass Solution {
     public int romanToInt(String s) {
         int total=0;
         int n=s.length();
@@ -28,5 +28,33 @@ class Solution {
             case 'I': total+=1; break;
             }
         return total;
+    }
+}*/
+
+class Solution {
+    public int romanToInt(String s) {
+        int[] value = new int[91];
+
+        value['I'] = 1;
+        value['V'] = 5;
+        value['X'] = 10;
+        value['L'] = 50;
+        value['C'] = 100;
+        value['D'] = 500;
+        value['M'] = 1000;
+
+        int ans = 0;
+
+        for (int i = 0; i < s.length() - 1; i++) {
+            int curr = value[s.charAt(i)];
+            int next = value[s.charAt(i + 1)];
+
+            if (curr < next)
+                ans -= curr;
+            else
+                ans += curr;
+        }
+
+        return ans + value[s.charAt(s.length() - 1)];
     }
 }
