@@ -1,15 +1,10 @@
 class Solution {
     public String countAndSay(int n) {
-        return countAndSay1(n);
-    }
-    public String countAndSay1(int num) 
-    {
-        if(num==1)
+        if(n==1)
         {
             return "1";
         }
-        String s=countAndSay1(num-1);
-        int arr[]=new int[10];
+        String s=countAndSay(n-1);
         StringBuilder st=new StringBuilder();
         for(int i=0;i<s.length();i++)
         {
