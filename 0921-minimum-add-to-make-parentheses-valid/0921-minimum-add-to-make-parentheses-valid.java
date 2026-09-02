@@ -2,26 +2,26 @@ class Solution {
     public int minAddToMakeValid(String s) {
         if(s.length()==0) return 0;
         int count=0;
-        ArrayDeque<Character> st=new ArrayDeque<>();
+        int b=0;
         for(int i=0;i<s.length();i++)
         {
             char p=s.charAt(i);
             switch(p)
             {
-            case '(':st.push(p);
+            case '(':b++;
                      break;
-            case ')':if(st.isEmpty())
+            case ')':if(b==0)
                      {
                         count++; 
                      }
                      else
                      {
-                        st.pop();
+                        b--;
                      }
                      break;
             }
         }
-        count+=st.size();
+        count+=b;
         return count;
     }
 }
