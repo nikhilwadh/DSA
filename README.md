@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0257-binary-tree-paths](https://github.com/nikhilwadh/DSA/tree/master/0257-binary-tree-paths) |
 | [0451-sort-characters-by-frequency](https://github.com/nikhilwadh/DSA/tree/master/0451-sort-characters-by-frequency) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/nikhilwadh/DSA/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+| [1392-longest-happy-prefix](https://github.com/nikhilwadh/DSA/tree/master/1392-longest-happy-prefix) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/nikhilwadh/DSA/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/nikhilwadh/DSA/tree/master/1781-sum-of-beauty-of-all-substrings) |
 ## Sorting
@@ -113,4 +114,24 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/nikhilwadh/DSA/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+## Rolling Hash
+|  |
+| ------- |
+| [1392-longest-happy-prefix](https://github.com/nikhilwadh/DSA/tree/master/1392-longest-happy-prefix) |
+## String Matching
+|  |
+| ------- |
+| [1392-longest-happy-prefix](https://github.com/nikhilwadh/DSA/tree/master/1392-longest-happy-prefix) |
+## Hash Function
+|  |
+| ------- |
+| [1392-longest-happy-prefix](https://github.com/nikhilwadh/DSA/tree/master/1392-longest-happy-prefix) |
+## Z Algorithm
+|  |
+| ------- |
+| [1392-longest-happy-prefix](https://github.com/nikhilwadh/DSA/tree/master/1392-longest-happy-prefix) |
+## Knuth–Morris–Pratt Algorithm
+|  |
+| ------- |
+| [1392-longest-happy-prefix](https://github.com/nikhilwadh/DSA/tree/master/1392-longest-happy-prefix) |
 <!---LeetCode Topics End-->
