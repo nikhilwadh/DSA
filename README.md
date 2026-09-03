@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/nikhilwadh/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0012-integer-to-roman](https://github.com/nikhilwadh/DSA/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/nikhilwadh/DSA/tree/master/0013-roman-to-integer) |
+| [0146-lru-cache](https://github.com/nikhilwadh/DSA/tree/master/0146-lru-cache) |
 | [0451-sort-characters-by-frequency](https://github.com/nikhilwadh/DSA/tree/master/0451-sort-characters-by-frequency) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/nikhilwadh/DSA/tree/master/1781-sum-of-beauty-of-all-substrings) |
 ## String
@@ -137,4 +138,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1392-longest-happy-prefix](https://github.com/nikhilwadh/DSA/tree/master/1392-longest-happy-prefix) |
+## Linked List
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/nikhilwadh/DSA/tree/master/0146-lru-cache) |
+## Design
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/nikhilwadh/DSA/tree/master/0146-lru-cache) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/nikhilwadh/DSA/tree/master/0146-lru-cache) |
 <!---LeetCode Topics End-->
