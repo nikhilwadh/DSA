@@ -48,7 +48,7 @@
     }
 }*/
 
-class Solution {
+/*class Solution {
     public boolean isCousins(TreeNode root, int x, int y) {
 
         Queue<TreeNode> q = new LinkedList<>();
@@ -83,5 +83,35 @@ class Solution {
         }
 
         return false;
+    }
+}*/
+
+class Solution {
+    int dx=-1,dy=-1,px=-1,py=-1;
+    public boolean isCousins(TreeNode root, int x, int y) {
+        dfs(root,root,0,x,y);
+
+        return dx==dy && px!=py;
+    }
+
+    void dfs(TreeNode curr, TreeNode parent,int depth, int x, int y)
+    {
+        if(curr==null)
+        {
+            return;
+        }
+        if(curr.val==x)
+        {
+            dx=depth;
+            px=parent.val;
+        }
+        if(curr.val==y)
+        {
+            dy=depth;
+            py=parent.val;
+        }
+
+        dfs(curr.left,curr,depth+1,x,y);
+        dfs(curr.right,curr,depth+1,x,y);
     }
 }
