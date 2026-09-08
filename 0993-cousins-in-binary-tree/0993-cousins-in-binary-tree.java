@@ -1,4 +1,4 @@
-class Solution {
+/*class Solution {
     public boolean isCousins(TreeNode root, int x, int y) {
         
         if (root == null) {
@@ -41,6 +41,44 @@ class Solution {
 
             if (count == 1) {
                 return false;
+            }
+        }
+
+        return false;
+    }
+}*/
+
+class Solution {
+    public boolean isCousins(TreeNode root, int x, int y) {
+
+        Queue<TreeNode> q = new LinkedList<>();
+        q.add(root);
+
+        while (!q.isEmpty()) {
+
+            int size = q.size();
+            TreeNode px = null;
+            TreeNode py = null;
+
+            for (int i = 0; i < size; i++) {
+
+                TreeNode curr = q.poll();
+
+                if (curr.left != null) {
+                    if (curr.left.val == x) px = curr;
+                    if (curr.left.val == y) py = curr;
+                    q.add(curr.left);
+                }
+
+                if (curr.right != null) {
+                    if (curr.right.val == x) px = curr;
+                    if (curr.right.val == y) py = curr;
+                    q.add(curr.right);
+                }
+            }
+
+            if (px != null || py != null) {
+                return px != null && py != null && px != py;
             }
         }
 
