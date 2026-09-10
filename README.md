@@ -77,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0257-binary-tree-paths](https://github.com/nikhilwadh/DSA/tree/master/0257-binary-tree-paths) |
 | [0617-merge-two-binary-trees](https://github.com/nikhilwadh/DSA/tree/master/0617-merge-two-binary-trees) |
 | [0897-increasing-order-search-tree](https://github.com/nikhilwadh/DSA/tree/master/0897-increasing-order-search-tree) |
+| [0979-distribute-coins-in-binary-tree](https://github.com/nikhilwadh/DSA/tree/master/0979-distribute-coins-in-binary-tree) |
 | [0993-cousins-in-binary-tree](https://github.com/nikhilwadh/DSA/tree/master/0993-cousins-in-binary-tree) |
 ## Depth-First Search
 |  |
@@ -92,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0257-binary-tree-paths](https://github.com/nikhilwadh/DSA/tree/master/0257-binary-tree-paths) |
 | [0617-merge-two-binary-trees](https://github.com/nikhilwadh/DSA/tree/master/0617-merge-two-binary-trees) |
 | [0897-increasing-order-search-tree](https://github.com/nikhilwadh/DSA/tree/master/0897-increasing-order-search-tree) |
+| [0979-distribute-coins-in-binary-tree](https://github.com/nikhilwadh/DSA/tree/master/0979-distribute-coins-in-binary-tree) |
 | [0993-cousins-in-binary-tree](https://github.com/nikhilwadh/DSA/tree/master/0993-cousins-in-binary-tree) |
 ## Binary Tree
 |  |
@@ -109,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0257-binary-tree-paths](https://github.com/nikhilwadh/DSA/tree/master/0257-binary-tree-paths) |
 | [0617-merge-two-binary-trees](https://github.com/nikhilwadh/DSA/tree/master/0617-merge-two-binary-trees) |
 | [0897-increasing-order-search-tree](https://github.com/nikhilwadh/DSA/tree/master/0897-increasing-order-search-tree) |
+| [0979-distribute-coins-in-binary-tree](https://github.com/nikhilwadh/DSA/tree/master/0979-distribute-coins-in-binary-tree) |
 | [0993-cousins-in-binary-tree](https://github.com/nikhilwadh/DSA/tree/master/0993-cousins-in-binary-tree) |
 ## Breadth-First Search
 |  |
@@ -183,4 +186,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/nikhilwadh/DSA/tree/master/0004-median-of-two-sorted-arrays) |
+## DP on Trees
+|  |
+| ------- |
+| [0979-distribute-coins-in-binary-tree](https://github.com/nikhilwadh/DSA/tree/master/0979-distribute-coins-in-binary-tree) |
 <!---LeetCode Topics End-->
