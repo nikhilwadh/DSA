@@ -5,21 +5,15 @@ class Solution {
             return false;
         }
 
-        PriorityQueue<Integer> pq = new PriorityQueue<>();
-        HashMap<Integer, Integer> map = new HashMap<>();
+        TreeMap<Integer, Integer> map = new TreeMap<>();
 
         for (int h : hand) {
-            pq.add(h);
             map.put(h, map.getOrDefault(h, 0) + 1);
         }
 
-        while (!pq.isEmpty()) {
+        while (!map.isEmpty()) {
 
-            int first = pq.poll();
-
-            if (!map.containsKey(first)) {
-                continue;
-            }
+            int first = map.firstKey();
 
             for (int i = 0; i < groupSize; i++) {
 
