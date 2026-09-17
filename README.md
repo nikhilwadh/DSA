@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0295-find-median-from-data-stream](https://github.com/nikhilwadh/DSA/tree/master/0295-find-median-from-data-stream) |
 | [0451-sort-characters-by-frequency](https://github.com/nikhilwadh/DSA/tree/master/0451-sort-characters-by-frequency) |
 | [0846-hand-of-straights](https://github.com/nikhilwadh/DSA/tree/master/0846-hand-of-straights) |
+| [1337-the-k-weakest-rows-in-a-matrix](https://github.com/nikhilwadh/DSA/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -42,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0295-find-median-from-data-stream](https://github.com/nikhilwadh/DSA/tree/master/0295-find-median-from-data-stream) |
 | [0451-sort-characters-by-frequency](https://github.com/nikhilwadh/DSA/tree/master/0451-sort-characters-by-frequency) |
 | [1046-last-stone-weight](https://github.com/nikhilwadh/DSA/tree/master/1046-last-stone-weight) |
+| [1337-the-k-weakest-rows-in-a-matrix](https://github.com/nikhilwadh/DSA/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 ## Bucket Sort
 |  |
 | ------- |
@@ -191,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0004-median-of-two-sorted-arrays](https://github.com/nikhilwadh/DSA/tree/master/0004-median-of-two-sorted-arrays) |
 | [0099-recover-binary-search-tree](https://github.com/nikhilwadh/DSA/tree/master/0099-recover-binary-search-tree) |
 | [0897-increasing-order-search-tree](https://github.com/nikhilwadh/DSA/tree/master/0897-increasing-order-search-tree) |
+| [1337-the-k-weakest-rows-in-a-matrix](https://github.com/nikhilwadh/DSA/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 ## Array
 |  |
 | ------- |
@@ -198,6 +201,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/nikhilwadh/DSA/tree/master/0215-kth-largest-element-in-an-array) |
 | [0846-hand-of-straights](https://github.com/nikhilwadh/DSA/tree/master/0846-hand-of-straights) |
 | [1046-last-stone-weight](https://github.com/nikhilwadh/DSA/tree/master/1046-last-stone-weight) |
+| [1337-the-k-weakest-rows-in-a-matrix](https://github.com/nikhilwadh/DSA/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -224,4 +228,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0295-find-median-from-data-stream](https://github.com/nikhilwadh/DSA/tree/master/0295-find-median-from-data-stream) |
+## Matrix
+|  |
+| ------- |
+| [1337-the-k-weakest-rows-in-a-matrix](https://github.com/nikhilwadh/DSA/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 <!---LeetCode Topics End-->
