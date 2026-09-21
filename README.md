@@ -153,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/nikhilwadh/DSA/tree/master/0013-roman-to-integer) |
 | [0263-ugly-number](https://github.com/nikhilwadh/DSA/tree/master/0263-ugly-number) |
 | [0264-ugly-number-ii](https://github.com/nikhilwadh/DSA/tree/master/0264-ugly-number-ii) |
+| [0313-super-ugly-number](https://github.com/nikhilwadh/DSA/tree/master/0313-super-ugly-number) |
 ## Sliding Window
 |  |
 | ------- |
@@ -208,6 +209,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/nikhilwadh/DSA/tree/master/0004-median-of-two-sorted-arrays) |
 | [0215-kth-largest-element-in-an-array](https://github.com/nikhilwadh/DSA/tree/master/0215-kth-largest-element-in-an-array) |
+| [0313-super-ugly-number](https://github.com/nikhilwadh/DSA/tree/master/0313-super-ugly-number) |
 | [0692-top-k-frequent-words](https://github.com/nikhilwadh/DSA/tree/master/0692-top-k-frequent-words) |
 | [0846-hand-of-straights](https://github.com/nikhilwadh/DSA/tree/master/0846-hand-of-straights) |
 | [1046-last-stone-weight](https://github.com/nikhilwadh/DSA/tree/master/1046-last-stone-weight) |
@@ -250,4 +252,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0264-ugly-number-ii](https://github.com/nikhilwadh/DSA/tree/master/0264-ugly-number-ii) |
+| [0313-super-ugly-number](https://github.com/nikhilwadh/DSA/tree/master/0313-super-ugly-number) |
 <!---LeetCode Topics End-->
