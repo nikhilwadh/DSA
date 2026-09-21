@@ -1,7 +1,7 @@
 class Solution {
     public int nthUglyNumber(int n) {
 
-        /*PriorityQueue<Long> pq = new PriorityQueue<>();
+        PriorityQueue<Long> pq = new PriorityQueue<>();
         HashSet<Long> set = new HashSet<>();
 
         pq.add(1L);
@@ -25,9 +25,9 @@ class Solution {
             }
         }
 
-        return pq.poll().intValue();*/
+        return pq.poll().intValue();
 
-        int[] arr = new int[n];
+        /*int[] arr = new int[n];
         arr[0] = 1;
 
         int i2 = 0, i3 = 0, i5 = 0;
@@ -47,6 +47,6 @@ class Solution {
             if (n5 == next) i5++;
         }
 
-        return arr[n - 1];
+        return arr[n - 1];*/
     }
 }
