@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/nikhilwadh/DSA/tree/master/0451-sort-characters-by-frequency) |
 | [0692-top-k-frequent-words](https://github.com/nikhilwadh/DSA/tree/master/0692-top-k-frequent-words) |
 | [0846-hand-of-straights](https://github.com/nikhilwadh/DSA/tree/master/0846-hand-of-straights) |
+| [0973-k-closest-points-to-origin](https://github.com/nikhilwadh/DSA/tree/master/0973-k-closest-points-to-origin) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/nikhilwadh/DSA/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 ## Heap (Priority Queue)
 |  |
@@ -48,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0295-find-median-from-data-stream](https://github.com/nikhilwadh/DSA/tree/master/0295-find-median-from-data-stream) |
 | [0451-sort-characters-by-frequency](https://github.com/nikhilwadh/DSA/tree/master/0451-sort-characters-by-frequency) |
 | [0692-top-k-frequent-words](https://github.com/nikhilwadh/DSA/tree/master/0692-top-k-frequent-words) |
+| [0973-k-closest-points-to-origin](https://github.com/nikhilwadh/DSA/tree/master/0973-k-closest-points-to-origin) |
 | [1046-last-stone-weight](https://github.com/nikhilwadh/DSA/tree/master/1046-last-stone-weight) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/nikhilwadh/DSA/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 ## Bucket Sort
@@ -154,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0263-ugly-number](https://github.com/nikhilwadh/DSA/tree/master/0263-ugly-number) |
 | [0264-ugly-number-ii](https://github.com/nikhilwadh/DSA/tree/master/0264-ugly-number-ii) |
 | [0313-super-ugly-number](https://github.com/nikhilwadh/DSA/tree/master/0313-super-ugly-number) |
+| [0973-k-closest-points-to-origin](https://github.com/nikhilwadh/DSA/tree/master/0973-k-closest-points-to-origin) |
 ## Sliding Window
 |  |
 | ------- |
@@ -212,6 +215,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0313-super-ugly-number](https://github.com/nikhilwadh/DSA/tree/master/0313-super-ugly-number) |
 | [0692-top-k-frequent-words](https://github.com/nikhilwadh/DSA/tree/master/0692-top-k-frequent-words) |
 | [0846-hand-of-straights](https://github.com/nikhilwadh/DSA/tree/master/0846-hand-of-straights) |
+| [0973-k-closest-points-to-origin](https://github.com/nikhilwadh/DSA/tree/master/0973-k-closest-points-to-origin) |
 | [1046-last-stone-weight](https://github.com/nikhilwadh/DSA/tree/master/1046-last-stone-weight) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/nikhilwadh/DSA/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 ## Divide and Conquer
@@ -220,6 +224,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0004-median-of-two-sorted-arrays](https://github.com/nikhilwadh/DSA/tree/master/0004-median-of-two-sorted-arrays) |
 | [0023-merge-k-sorted-lists](https://github.com/nikhilwadh/DSA/tree/master/0023-merge-k-sorted-lists) |
 | [0215-kth-largest-element-in-an-array](https://github.com/nikhilwadh/DSA/tree/master/0215-kth-largest-element-in-an-array) |
+| [0973-k-closest-points-to-origin](https://github.com/nikhilwadh/DSA/tree/master/0973-k-closest-points-to-origin) |
 ## DP on Trees
 |  |
 | ------- |
@@ -228,6 +233,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/nikhilwadh/DSA/tree/master/0215-kth-largest-element-in-an-array) |
+| [0973-k-closest-points-to-origin](https://github.com/nikhilwadh/DSA/tree/master/0973-k-closest-points-to-origin) |
 ## Merge Sort
 |  |
 | ------- |
@@ -253,4 +259,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0264-ugly-number-ii](https://github.com/nikhilwadh/DSA/tree/master/0264-ugly-number-ii) |
 | [0313-super-ugly-number](https://github.com/nikhilwadh/DSA/tree/master/0313-super-ugly-number) |
+## Geometry
+|  |
+| ------- |
+| [0973-k-closest-points-to-origin](https://github.com/nikhilwadh/DSA/tree/master/0973-k-closest-points-to-origin) |
+## K-D Tree
+|  |
+| ------- |
+| [0973-k-closest-points-to-origin](https://github.com/nikhilwadh/DSA/tree/master/0973-k-closest-points-to-origin) |
 <!---LeetCode Topics End-->
