@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0146-lru-cache](https://github.com/nikhilwadh/DSA/tree/master/0146-lru-cache) |
 | [0264-ugly-number-ii](https://github.com/nikhilwadh/DSA/tree/master/0264-ugly-number-ii) |
 | [0451-sort-characters-by-frequency](https://github.com/nikhilwadh/DSA/tree/master/0451-sort-characters-by-frequency) |
+| [0480-sliding-window-median](https://github.com/nikhilwadh/DSA/tree/master/0480-sliding-window-median) |
 | [0692-top-k-frequent-words](https://github.com/nikhilwadh/DSA/tree/master/0692-top-k-frequent-words) |
 | [0846-hand-of-straights](https://github.com/nikhilwadh/DSA/tree/master/0846-hand-of-straights) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/nikhilwadh/DSA/tree/master/1781-sum-of-beauty-of-all-substrings) |
@@ -49,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0264-ugly-number-ii](https://github.com/nikhilwadh/DSA/tree/master/0264-ugly-number-ii) |
 | [0295-find-median-from-data-stream](https://github.com/nikhilwadh/DSA/tree/master/0295-find-median-from-data-stream) |
 | [0451-sort-characters-by-frequency](https://github.com/nikhilwadh/DSA/tree/master/0451-sort-characters-by-frequency) |
+| [0480-sliding-window-median](https://github.com/nikhilwadh/DSA/tree/master/0480-sliding-window-median) |
 | [0658-find-k-closest-elements](https://github.com/nikhilwadh/DSA/tree/master/0658-find-k-closest-elements) |
 | [0692-top-k-frequent-words](https://github.com/nikhilwadh/DSA/tree/master/0692-top-k-frequent-words) |
 | [0973-k-closest-points-to-origin](https://github.com/nikhilwadh/DSA/tree/master/0973-k-closest-points-to-origin) |
@@ -165,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/nikhilwadh/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0480-sliding-window-median](https://github.com/nikhilwadh/DSA/tree/master/0480-sliding-window-median) |
 | [0658-find-k-closest-elements](https://github.com/nikhilwadh/DSA/tree/master/0658-find-k-closest-elements) |
 ## Greedy
 |  |
@@ -220,6 +223,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0004-median-of-two-sorted-arrays](https://github.com/nikhilwadh/DSA/tree/master/0004-median-of-two-sorted-arrays) |
 | [0215-kth-largest-element-in-an-array](https://github.com/nikhilwadh/DSA/tree/master/0215-kth-largest-element-in-an-array) |
 | [0313-super-ugly-number](https://github.com/nikhilwadh/DSA/tree/master/0313-super-ugly-number) |
+| [0480-sliding-window-median](https://github.com/nikhilwadh/DSA/tree/master/0480-sliding-window-median) |
 | [0658-find-k-closest-elements](https://github.com/nikhilwadh/DSA/tree/master/0658-find-k-closest-elements) |
 | [0692-top-k-frequent-words](https://github.com/nikhilwadh/DSA/tree/master/0692-top-k-frequent-words) |
 | [0846-hand-of-straights](https://github.com/nikhilwadh/DSA/tree/master/0846-hand-of-straights) |
@@ -275,4 +279,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0973-k-closest-points-to-origin](https://github.com/nikhilwadh/DSA/tree/master/0973-k-closest-points-to-origin) |
+## Treap
+|  |
+| ------- |
+| [0480-sliding-window-median](https://github.com/nikhilwadh/DSA/tree/master/0480-sliding-window-median) |
 <!---LeetCode Topics End-->
