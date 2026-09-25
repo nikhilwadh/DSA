@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0973-k-closest-points-to-origin](https://github.com/nikhilwadh/DSA/tree/master/0973-k-closest-points-to-origin) |
 | [1046-last-stone-weight](https://github.com/nikhilwadh/DSA/tree/master/1046-last-stone-weight) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/nikhilwadh/DSA/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
+| [1825-finding-mk-average](https://github.com/nikhilwadh/DSA/tree/master/1825-finding-mk-average) |
 | [1845-seat-reservation-manager](https://github.com/nikhilwadh/DSA/tree/master/1845-seat-reservation-manager) |
 ## Bucket Sort
 |  |
@@ -204,6 +205,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0146-lru-cache](https://github.com/nikhilwadh/DSA/tree/master/0146-lru-cache) |
 | [0295-find-median-from-data-stream](https://github.com/nikhilwadh/DSA/tree/master/0295-find-median-from-data-stream) |
+| [1825-finding-mk-average](https://github.com/nikhilwadh/DSA/tree/master/1825-finding-mk-average) |
 | [1845-seat-reservation-manager](https://github.com/nikhilwadh/DSA/tree/master/1845-seat-reservation-manager) |
 ## Doubly-Linked List
 |  |
@@ -258,6 +260,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0295-find-median-from-data-stream](https://github.com/nikhilwadh/DSA/tree/master/0295-find-median-from-data-stream) |
+| [1825-finding-mk-average](https://github.com/nikhilwadh/DSA/tree/master/1825-finding-mk-average) |
 ## Matrix
 |  |
 | ------- |
@@ -283,4 +286,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0480-sliding-window-median](https://github.com/nikhilwadh/DSA/tree/master/0480-sliding-window-median) |
+| [1825-finding-mk-average](https://github.com/nikhilwadh/DSA/tree/master/1825-finding-mk-average) |
+## Queue
+|  |
+| ------- |
+| [1825-finding-mk-average](https://github.com/nikhilwadh/DSA/tree/master/1825-finding-mk-average) |
+## Ordered Set
+|  |
+| ------- |
+| [1825-finding-mk-average](https://github.com/nikhilwadh/DSA/tree/master/1825-finding-mk-average) |
 <!---LeetCode Topics End-->
