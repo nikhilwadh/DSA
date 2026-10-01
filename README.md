@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0480-sliding-window-median](https://github.com/nikhilwadh/DSA/tree/master/0480-sliding-window-median) |
 | [0621-task-scheduler](https://github.com/nikhilwadh/DSA/tree/master/0621-task-scheduler) |
 | [0692-top-k-frequent-words](https://github.com/nikhilwadh/DSA/tree/master/0692-top-k-frequent-words) |
+| [0767-reorganize-string](https://github.com/nikhilwadh/DSA/tree/master/0767-reorganize-string) |
 | [0846-hand-of-straights](https://github.com/nikhilwadh/DSA/tree/master/0846-hand-of-straights) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/nikhilwadh/DSA/tree/master/1781-sum-of-beauty-of-all-substrings) |
 ## String
@@ -29,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0257-binary-tree-paths](https://github.com/nikhilwadh/DSA/tree/master/0257-binary-tree-paths) |
 | [0451-sort-characters-by-frequency](https://github.com/nikhilwadh/DSA/tree/master/0451-sort-characters-by-frequency) |
 | [0692-top-k-frequent-words](https://github.com/nikhilwadh/DSA/tree/master/0692-top-k-frequent-words) |
+| [0767-reorganize-string](https://github.com/nikhilwadh/DSA/tree/master/0767-reorganize-string) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/nikhilwadh/DSA/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1392-longest-happy-prefix](https://github.com/nikhilwadh/DSA/tree/master/1392-longest-happy-prefix) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/nikhilwadh/DSA/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
@@ -42,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0621-task-scheduler](https://github.com/nikhilwadh/DSA/tree/master/0621-task-scheduler) |
 | [0658-find-k-closest-elements](https://github.com/nikhilwadh/DSA/tree/master/0658-find-k-closest-elements) |
 | [0692-top-k-frequent-words](https://github.com/nikhilwadh/DSA/tree/master/0692-top-k-frequent-words) |
+| [0767-reorganize-string](https://github.com/nikhilwadh/DSA/tree/master/0767-reorganize-string) |
 | [0846-hand-of-straights](https://github.com/nikhilwadh/DSA/tree/master/0846-hand-of-straights) |
 | [0973-k-closest-points-to-origin](https://github.com/nikhilwadh/DSA/tree/master/0973-k-closest-points-to-origin) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/nikhilwadh/DSA/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
@@ -57,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0621-task-scheduler](https://github.com/nikhilwadh/DSA/tree/master/0621-task-scheduler) |
 | [0658-find-k-closest-elements](https://github.com/nikhilwadh/DSA/tree/master/0658-find-k-closest-elements) |
 | [0692-top-k-frequent-words](https://github.com/nikhilwadh/DSA/tree/master/0692-top-k-frequent-words) |
+| [0767-reorganize-string](https://github.com/nikhilwadh/DSA/tree/master/0767-reorganize-string) |
 | [0973-k-closest-points-to-origin](https://github.com/nikhilwadh/DSA/tree/master/0973-k-closest-points-to-origin) |
 | [1046-last-stone-weight](https://github.com/nikhilwadh/DSA/tree/master/1046-last-stone-weight) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/nikhilwadh/DSA/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
@@ -73,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/nikhilwadh/DSA/tree/master/0451-sort-characters-by-frequency) |
 | [0621-task-scheduler](https://github.com/nikhilwadh/DSA/tree/master/0621-task-scheduler) |
 | [0692-top-k-frequent-words](https://github.com/nikhilwadh/DSA/tree/master/0692-top-k-frequent-words) |
+| [0767-reorganize-string](https://github.com/nikhilwadh/DSA/tree/master/0767-reorganize-string) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/nikhilwadh/DSA/tree/master/1781-sum-of-beauty-of-all-substrings) |
 ## Stack
 |  |
@@ -179,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0621-task-scheduler](https://github.com/nikhilwadh/DSA/tree/master/0621-task-scheduler) |
+| [0767-reorganize-string](https://github.com/nikhilwadh/DSA/tree/master/0767-reorganize-string) |
 | [0846-hand-of-straights](https://github.com/nikhilwadh/DSA/tree/master/0846-hand-of-straights) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/nikhilwadh/DSA/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 ## Rolling Hash
