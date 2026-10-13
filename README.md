@@ -131,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0226-invert-binary-tree](https://github.com/nikhilwadh/DSA/tree/master/0226-invert-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/nikhilwadh/DSA/tree/master/0257-binary-tree-paths) |
 | [0617-merge-two-binary-trees](https://github.com/nikhilwadh/DSA/tree/master/0617-merge-two-binary-trees) |
+| [0695-max-area-of-island](https://github.com/nikhilwadh/DSA/tree/master/0695-max-area-of-island) |
 | [0897-increasing-order-search-tree](https://github.com/nikhilwadh/DSA/tree/master/0897-increasing-order-search-tree) |
 | [0979-distribute-coins-in-binary-tree](https://github.com/nikhilwadh/DSA/tree/master/0979-distribute-coins-in-binary-tree) |
 | [0993-cousins-in-binary-tree](https://github.com/nikhilwadh/DSA/tree/master/0993-cousins-in-binary-tree) |
@@ -162,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/nikhilwadh/DSA/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/nikhilwadh/DSA/tree/master/0226-invert-binary-tree) |
 | [0617-merge-two-binary-trees](https://github.com/nikhilwadh/DSA/tree/master/0617-merge-two-binary-trees) |
+| [0695-max-area-of-island](https://github.com/nikhilwadh/DSA/tree/master/0695-max-area-of-island) |
 | [0993-cousins-in-binary-tree](https://github.com/nikhilwadh/DSA/tree/master/0993-cousins-in-binary-tree) |
 ## Backtracking
 |  |
@@ -246,6 +248,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0621-task-scheduler](https://github.com/nikhilwadh/DSA/tree/master/0621-task-scheduler) |
 | [0658-find-k-closest-elements](https://github.com/nikhilwadh/DSA/tree/master/0658-find-k-closest-elements) |
 | [0692-top-k-frequent-words](https://github.com/nikhilwadh/DSA/tree/master/0692-top-k-frequent-words) |
+| [0695-max-area-of-island](https://github.com/nikhilwadh/DSA/tree/master/0695-max-area-of-island) |
 | [0846-hand-of-straights](https://github.com/nikhilwadh/DSA/tree/master/0846-hand-of-straights) |
 | [0973-k-closest-points-to-origin](https://github.com/nikhilwadh/DSA/tree/master/0973-k-closest-points-to-origin) |
 | [1046-last-stone-weight](https://github.com/nikhilwadh/DSA/tree/master/1046-last-stone-weight) |
@@ -284,6 +287,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0200-number-of-islands](https://github.com/nikhilwadh/DSA/tree/master/0200-number-of-islands) |
 | [0221-maximal-square](https://github.com/nikhilwadh/DSA/tree/master/0221-maximal-square) |
+| [0695-max-area-of-island](https://github.com/nikhilwadh/DSA/tree/master/0695-max-area-of-island) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/nikhilwadh/DSA/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 ## Trie
 |  |
@@ -320,4 +324,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/nikhilwadh/DSA/tree/master/0200-number-of-islands) |
+| [0695-max-area-of-island](https://github.com/nikhilwadh/DSA/tree/master/0695-max-area-of-island) |
 <!---LeetCode Topics End-->
