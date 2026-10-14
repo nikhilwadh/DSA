@@ -130,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/nikhilwadh/DSA/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/nikhilwadh/DSA/tree/master/0226-invert-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/nikhilwadh/DSA/tree/master/0257-binary-tree-paths) |
+| [0463-island-perimeter](https://github.com/nikhilwadh/DSA/tree/master/0463-island-perimeter) |
 | [0617-merge-two-binary-trees](https://github.com/nikhilwadh/DSA/tree/master/0617-merge-two-binary-trees) |
 | [0695-max-area-of-island](https://github.com/nikhilwadh/DSA/tree/master/0695-max-area-of-island) |
 | [0897-increasing-order-search-tree](https://github.com/nikhilwadh/DSA/tree/master/0897-increasing-order-search-tree) |
@@ -162,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0199-binary-tree-right-side-view](https://github.com/nikhilwadh/DSA/tree/master/0199-binary-tree-right-side-view) |
 | [0200-number-of-islands](https://github.com/nikhilwadh/DSA/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/nikhilwadh/DSA/tree/master/0226-invert-binary-tree) |
+| [0463-island-perimeter](https://github.com/nikhilwadh/DSA/tree/master/0463-island-perimeter) |
 | [0617-merge-two-binary-trees](https://github.com/nikhilwadh/DSA/tree/master/0617-merge-two-binary-trees) |
 | [0695-max-area-of-island](https://github.com/nikhilwadh/DSA/tree/master/0695-max-area-of-island) |
 | [0993-cousins-in-binary-tree](https://github.com/nikhilwadh/DSA/tree/master/0993-cousins-in-binary-tree) |
@@ -244,6 +246,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/nikhilwadh/DSA/tree/master/0215-kth-largest-element-in-an-array) |
 | [0221-maximal-square](https://github.com/nikhilwadh/DSA/tree/master/0221-maximal-square) |
 | [0313-super-ugly-number](https://github.com/nikhilwadh/DSA/tree/master/0313-super-ugly-number) |
+| [0463-island-perimeter](https://github.com/nikhilwadh/DSA/tree/master/0463-island-perimeter) |
 | [0480-sliding-window-median](https://github.com/nikhilwadh/DSA/tree/master/0480-sliding-window-median) |
 | [0621-task-scheduler](https://github.com/nikhilwadh/DSA/tree/master/0621-task-scheduler) |
 | [0658-find-k-closest-elements](https://github.com/nikhilwadh/DSA/tree/master/0658-find-k-closest-elements) |
@@ -287,6 +290,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0200-number-of-islands](https://github.com/nikhilwadh/DSA/tree/master/0200-number-of-islands) |
 | [0221-maximal-square](https://github.com/nikhilwadh/DSA/tree/master/0221-maximal-square) |
+| [0463-island-perimeter](https://github.com/nikhilwadh/DSA/tree/master/0463-island-perimeter) |
 | [0695-max-area-of-island](https://github.com/nikhilwadh/DSA/tree/master/0695-max-area-of-island) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/nikhilwadh/DSA/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 ## Trie
