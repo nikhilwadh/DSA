@@ -18,7 +18,7 @@ class Solution
             }
         }
 
-        Queue<Pair> q=new LinkedList<>();
+        Queue<Pair> q=new ArrayDeque<>();
         StringBuilder n=new StringBuilder("0000");
         Pair ob=new Pair(n,0);
         q.add(ob);
