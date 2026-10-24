@@ -73,10 +73,9 @@ class Solution
         if(dead.contains("0000")) return -1;
         HashSet<String> visited=new HashSet<>();
 
-        Queue<StringBuilder> q=new ArrayDeque<>();
-        StringBuilder n=new StringBuilder("0000");
-        q.add(n);
-        visited.add(n.toString());
+        Queue<String> q=new ArrayDeque<>();
+        q.add("0000");
+        visited.add("0000");
 
         int count=0;
         while(!q.isEmpty())
@@ -84,8 +83,8 @@ class Solution
             int size=q.size();
             for(int j=0;j<size;j++)
             {
-            StringBuilder obj=q.poll();
-            if(obj.toString().equals(target))
+            String obj=q.poll();
+            if(obj.equals(target))
             {
                 return count;
             }
@@ -105,12 +104,12 @@ class Solution
                  
                 if(!dead.contains(a) && !visited.contains(a))
                 {
-                    q.add(s1);
+                    q.add(a);
                     visited.add(a);
                 }
                 if(!dead.contains(b) && !visited.contains(b))
                 {
-                    q.add(s2);
+                    q.add(b);
                     visited.add(b);
                 }                
             }
