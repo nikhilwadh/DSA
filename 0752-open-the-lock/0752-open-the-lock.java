@@ -102,15 +102,13 @@ class Solution
                 String a=s1.toString();
                 String b=s2.toString();
                  
-                if(!dead.contains(a) && !visited.contains(a))
+                if(!dead.contains(a) && visited.add(a))
                 {
                     q.add(a);
-                    visited.add(a);
                 }
-                if(!dead.contains(b) && !visited.contains(b))
+                if(!dead.contains(b) && visited.add(b))
                 {
                     q.add(b);
-                    visited.add(b);
                 }                
             }
             }
