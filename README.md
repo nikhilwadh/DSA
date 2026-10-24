@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0480-sliding-window-median](https://github.com/nikhilwadh/DSA/tree/master/0480-sliding-window-median) |
 | [0621-task-scheduler](https://github.com/nikhilwadh/DSA/tree/master/0621-task-scheduler) |
 | [0692-top-k-frequent-words](https://github.com/nikhilwadh/DSA/tree/master/0692-top-k-frequent-words) |
+| [0752-open-the-lock](https://github.com/nikhilwadh/DSA/tree/master/0752-open-the-lock) |
 | [0767-reorganize-string](https://github.com/nikhilwadh/DSA/tree/master/0767-reorganize-string) |
 | [0846-hand-of-straights](https://github.com/nikhilwadh/DSA/tree/master/0846-hand-of-straights) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/nikhilwadh/DSA/tree/master/1781-sum-of-beauty-of-all-substrings) |
@@ -30,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0257-binary-tree-paths](https://github.com/nikhilwadh/DSA/tree/master/0257-binary-tree-paths) |
 | [0451-sort-characters-by-frequency](https://github.com/nikhilwadh/DSA/tree/master/0451-sort-characters-by-frequency) |
 | [0692-top-k-frequent-words](https://github.com/nikhilwadh/DSA/tree/master/0692-top-k-frequent-words) |
+| [0752-open-the-lock](https://github.com/nikhilwadh/DSA/tree/master/0752-open-the-lock) |
 | [0767-reorganize-string](https://github.com/nikhilwadh/DSA/tree/master/0767-reorganize-string) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/nikhilwadh/DSA/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1392-longest-happy-prefix](https://github.com/nikhilwadh/DSA/tree/master/1392-longest-happy-prefix) |
@@ -168,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0463-island-perimeter](https://github.com/nikhilwadh/DSA/tree/master/0463-island-perimeter) |
 | [0617-merge-two-binary-trees](https://github.com/nikhilwadh/DSA/tree/master/0617-merge-two-binary-trees) |
 | [0695-max-area-of-island](https://github.com/nikhilwadh/DSA/tree/master/0695-max-area-of-island) |
+| [0752-open-the-lock](https://github.com/nikhilwadh/DSA/tree/master/0752-open-the-lock) |
 | [0993-cousins-in-binary-tree](https://github.com/nikhilwadh/DSA/tree/master/0993-cousins-in-binary-tree) |
 | [0994-rotting-oranges](https://github.com/nikhilwadh/DSA/tree/master/0994-rotting-oranges) |
 ## Backtracking
@@ -256,6 +259,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0658-find-k-closest-elements](https://github.com/nikhilwadh/DSA/tree/master/0658-find-k-closest-elements) |
 | [0692-top-k-frequent-words](https://github.com/nikhilwadh/DSA/tree/master/0692-top-k-frequent-words) |
 | [0695-max-area-of-island](https://github.com/nikhilwadh/DSA/tree/master/0695-max-area-of-island) |
+| [0752-open-the-lock](https://github.com/nikhilwadh/DSA/tree/master/0752-open-the-lock) |
 | [0846-hand-of-straights](https://github.com/nikhilwadh/DSA/tree/master/0846-hand-of-straights) |
 | [0973-k-closest-points-to-origin](https://github.com/nikhilwadh/DSA/tree/master/0973-k-closest-points-to-origin) |
 | [0994-rotting-oranges](https://github.com/nikhilwadh/DSA/tree/master/0994-rotting-oranges) |
@@ -337,4 +341,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0130-surrounded-regions](https://github.com/nikhilwadh/DSA/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/nikhilwadh/DSA/tree/master/0200-number-of-islands) |
 | [0695-max-area-of-island](https://github.com/nikhilwadh/DSA/tree/master/0695-max-area-of-island) |
+## Bidirectional Search
+|  |
+| ------- |
+| [0752-open-the-lock](https://github.com/nikhilwadh/DSA/tree/master/0752-open-the-lock) |
 <!---LeetCode Topics End-->
