@@ -1,4 +1,4 @@
-class Solution 
+/*class Solution 
 {
     public int openLock(String[] deadends, String target) 
     {
@@ -59,6 +59,63 @@ class Solution
                     visited.add(b);
                 }                
             }
+        }
+        return -1;
+    }
+}
+*/
+
+class Solution 
+{
+    public int openLock(String[] deadends, String target) 
+    {
+        HashSet<String> dead=new HashSet<>(Arrays.asList(deadends));
+        if(dead.contains("0000")) return -1;
+        HashSet<String> visited=new HashSet<>();
+
+        Queue<StringBuilder> q=new ArrayDeque<>();
+        StringBuilder n=new StringBuilder("0000");
+        q.add(n);
+        visited.add(n.toString());
+
+        int count=0;
+        while(!q.isEmpty())
+        {
+            int size=q.size();
+            for(int j=0;j<size;j++)
+            {
+            StringBuilder obj=q.poll();
+            if(obj.toString().equals(target))
+            {
+                return count;
+            }
+
+            for(int i = 0; i < 4; i++) 
+            {
+                char c = obj.charAt(i); 
+
+                StringBuilder s1 = new StringBuilder(obj);
+                s1.setCharAt(i, (char) (((c - '0' + 1) % 10) + '0'));
+
+                StringBuilder s2 = new StringBuilder(obj);
+                s2.setCharAt(i, (char) (((c - '0' - 1 + 10) % 10) + '0')); 
+
+                String a=s1.toString();
+                String b=s2.toString();
+                 
+                if(!dead.contains(a) && !visited.contains(a))
+                {
+                    q.add(s1);
+                    visited.add(a);
+                }
+                if(!dead.contains(b) && !visited.contains(b))
+                {
+                    q.add(s2);
+                    visited.add(b);
+                }                
+            }
+            }
+            count++;
         }
         return -1;
     }
