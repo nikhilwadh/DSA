@@ -26,7 +26,6 @@ class Solution
                     mincount=arr[2];
                     flag=1;
                 }
-
                 if(r>0 && grid[r-1][c]==0)
                 {                    
                     q.add(new int[]{r-1,c,count});
