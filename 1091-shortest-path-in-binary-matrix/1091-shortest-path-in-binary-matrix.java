@@ -6,7 +6,6 @@ class Solution
         if(grid[0][0]==1 || grid[n-1][n-1]==1) return -1;
 
         Queue<int[]> q = new ArrayDeque<>();
-        List<int[]> visited=new ArrayList<>();
         q.add(new int[]{0,0,1});
         grid[0][0]=2;
 
@@ -73,3 +72,44 @@ class Solution
         return flag==1?mincount:-1;
     }
 }
+
+/*class Solution 
+{
+    int n;
+    int mincount=Integer.MAX_VALUE;
+
+    public int shortestPathBinaryMatrix(int[][] grid) 
+    {
+        n=grid.length;
+        if(grid[0][0]==1 || grid[n-1][n-1]==1) return -1;
+        
+        dfs(grid,0,0,1);
+        return mincount == Integer.MAX_VALUE ? -1 : mincount;
+    }
+
+    public void dfs(int[][] grid, int r,int c,int count)
+    {
+        if(r<0 || r>=n || c<0 || c>=n || grid[r][c]!=0 || count>=mincount)
+        {
+            return;
+        }
+        if(r==n-1 && c==n-1 && mincount>count)
+        {
+            mincount=count;
+            return;
+        }
+
+        grid[r][c]=2;
+
+        dfs(grid,r-1,c,count+1);
+        dfs(grid,r+1,c,count+1);
+        dfs(grid,r,c-1,count+1);
+        dfs(grid,r,c+1,count+1);
+        dfs(grid,r-1,c-1,count+1);
+        dfs(grid,r-1,c+1,count+1);
+        dfs(grid,r+1,c-1,count+1);
+        dfs(grid,r+1,c+1,count+1);
+
+        grid[r][c] = 0;
+    }
+}*/
