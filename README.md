@@ -140,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0979-distribute-coins-in-binary-tree](https://github.com/nikhilwadh/DSA/tree/master/0979-distribute-coins-in-binary-tree) |
 | [0993-cousins-in-binary-tree](https://github.com/nikhilwadh/DSA/tree/master/0993-cousins-in-binary-tree) |
 | [1020-number-of-enclaves](https://github.com/nikhilwadh/DSA/tree/master/1020-number-of-enclaves) |
+| [1254-number-of-closed-islands](https://github.com/nikhilwadh/DSA/tree/master/1254-number-of-closed-islands) |
 ## Binary Tree
 |  |
 | ------- |
@@ -176,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0994-rotting-oranges](https://github.com/nikhilwadh/DSA/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/nikhilwadh/DSA/tree/master/1020-number-of-enclaves) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/nikhilwadh/DSA/tree/master/1091-shortest-path-in-binary-matrix) |
+| [1254-number-of-closed-islands](https://github.com/nikhilwadh/DSA/tree/master/1254-number-of-closed-islands) |
 ## Backtracking
 |  |
 | ------- |
@@ -269,6 +271,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1020-number-of-enclaves](https://github.com/nikhilwadh/DSA/tree/master/1020-number-of-enclaves) |
 | [1046-last-stone-weight](https://github.com/nikhilwadh/DSA/tree/master/1046-last-stone-weight) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/nikhilwadh/DSA/tree/master/1091-shortest-path-in-binary-matrix) |
+| [1254-number-of-closed-islands](https://github.com/nikhilwadh/DSA/tree/master/1254-number-of-closed-islands) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/nikhilwadh/DSA/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 ## Divide and Conquer
 |  |
@@ -310,6 +313,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0994-rotting-oranges](https://github.com/nikhilwadh/DSA/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/nikhilwadh/DSA/tree/master/1020-number-of-enclaves) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/nikhilwadh/DSA/tree/master/1091-shortest-path-in-binary-matrix) |
+| [1254-number-of-closed-islands](https://github.com/nikhilwadh/DSA/tree/master/1254-number-of-closed-islands) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/nikhilwadh/DSA/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 ## Trie
 |  |
@@ -349,6 +353,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/nikhilwadh/DSA/tree/master/0200-number-of-islands) |
 | [0695-max-area-of-island](https://github.com/nikhilwadh/DSA/tree/master/0695-max-area-of-island) |
 | [1020-number-of-enclaves](https://github.com/nikhilwadh/DSA/tree/master/1020-number-of-enclaves) |
+| [1254-number-of-closed-islands](https://github.com/nikhilwadh/DSA/tree/master/1254-number-of-closed-islands) |
 ## Bidirectional Search
 |  |
 | ------- |
