@@ -33,13 +33,13 @@ class Solution
         {
             return;
         }
+
+        grid[r][c]=2;
+
         if(r==0 || r==rows-1 || c==0 || c==cols-1)
         {
             flag=true;
-            return;
         }
-
-        grid[r][c]=2;
 
         dfs(grid,r,c+1);
         dfs(grid,r,c-1);
