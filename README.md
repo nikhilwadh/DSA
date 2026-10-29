@@ -136,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0463-island-perimeter](https://github.com/nikhilwadh/DSA/tree/master/0463-island-perimeter) |
 | [0617-merge-two-binary-trees](https://github.com/nikhilwadh/DSA/tree/master/0617-merge-two-binary-trees) |
 | [0695-max-area-of-island](https://github.com/nikhilwadh/DSA/tree/master/0695-max-area-of-island) |
+| [0797-all-paths-from-source-to-target](https://github.com/nikhilwadh/DSA/tree/master/0797-all-paths-from-source-to-target) |
 | [0827-making-a-large-island](https://github.com/nikhilwadh/DSA/tree/master/0827-making-a-large-island) |
 | [0897-increasing-order-search-tree](https://github.com/nikhilwadh/DSA/tree/master/0897-increasing-order-search-tree) |
 | [0979-distribute-coins-in-binary-tree](https://github.com/nikhilwadh/DSA/tree/master/0979-distribute-coins-in-binary-tree) |
@@ -174,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0617-merge-two-binary-trees](https://github.com/nikhilwadh/DSA/tree/master/0617-merge-two-binary-trees) |
 | [0695-max-area-of-island](https://github.com/nikhilwadh/DSA/tree/master/0695-max-area-of-island) |
 | [0752-open-the-lock](https://github.com/nikhilwadh/DSA/tree/master/0752-open-the-lock) |
+| [0797-all-paths-from-source-to-target](https://github.com/nikhilwadh/DSA/tree/master/0797-all-paths-from-source-to-target) |
 | [0827-making-a-large-island](https://github.com/nikhilwadh/DSA/tree/master/0827-making-a-large-island) |
 | [0993-cousins-in-binary-tree](https://github.com/nikhilwadh/DSA/tree/master/0993-cousins-in-binary-tree) |
 | [0994-rotting-oranges](https://github.com/nikhilwadh/DSA/tree/master/0994-rotting-oranges) |
@@ -184,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0257-binary-tree-paths](https://github.com/nikhilwadh/DSA/tree/master/0257-binary-tree-paths) |
+| [0797-all-paths-from-source-to-target](https://github.com/nikhilwadh/DSA/tree/master/0797-all-paths-from-source-to-target) |
 ## Math
 |  |
 | ------- |
@@ -363,4 +366,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0752-open-the-lock](https://github.com/nikhilwadh/DSA/tree/master/0752-open-the-lock) |
+## Graph Theory
+|  |
+| ------- |
+| [0797-all-paths-from-source-to-target](https://github.com/nikhilwadh/DSA/tree/master/0797-all-paths-from-source-to-target) |
+## Directed Acyclic Graph
+|  |
+| ------- |
+| [0797-all-paths-from-source-to-target](https://github.com/nikhilwadh/DSA/tree/master/0797-all-paths-from-source-to-target) |
 <!---LeetCode Topics End-->
