@@ -136,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0463-island-perimeter](https://github.com/nikhilwadh/DSA/tree/master/0463-island-perimeter) |
 | [0617-merge-two-binary-trees](https://github.com/nikhilwadh/DSA/tree/master/0617-merge-two-binary-trees) |
 | [0695-max-area-of-island](https://github.com/nikhilwadh/DSA/tree/master/0695-max-area-of-island) |
+| [0827-making-a-large-island](https://github.com/nikhilwadh/DSA/tree/master/0827-making-a-large-island) |
 | [0897-increasing-order-search-tree](https://github.com/nikhilwadh/DSA/tree/master/0897-increasing-order-search-tree) |
 | [0979-distribute-coins-in-binary-tree](https://github.com/nikhilwadh/DSA/tree/master/0979-distribute-coins-in-binary-tree) |
 | [0993-cousins-in-binary-tree](https://github.com/nikhilwadh/DSA/tree/master/0993-cousins-in-binary-tree) |
@@ -173,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0617-merge-two-binary-trees](https://github.com/nikhilwadh/DSA/tree/master/0617-merge-two-binary-trees) |
 | [0695-max-area-of-island](https://github.com/nikhilwadh/DSA/tree/master/0695-max-area-of-island) |
 | [0752-open-the-lock](https://github.com/nikhilwadh/DSA/tree/master/0752-open-the-lock) |
+| [0827-making-a-large-island](https://github.com/nikhilwadh/DSA/tree/master/0827-making-a-large-island) |
 | [0993-cousins-in-binary-tree](https://github.com/nikhilwadh/DSA/tree/master/0993-cousins-in-binary-tree) |
 | [0994-rotting-oranges](https://github.com/nikhilwadh/DSA/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/nikhilwadh/DSA/tree/master/1020-number-of-enclaves) |
@@ -265,6 +267,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0692-top-k-frequent-words](https://github.com/nikhilwadh/DSA/tree/master/0692-top-k-frequent-words) |
 | [0695-max-area-of-island](https://github.com/nikhilwadh/DSA/tree/master/0695-max-area-of-island) |
 | [0752-open-the-lock](https://github.com/nikhilwadh/DSA/tree/master/0752-open-the-lock) |
+| [0827-making-a-large-island](https://github.com/nikhilwadh/DSA/tree/master/0827-making-a-large-island) |
 | [0846-hand-of-straights](https://github.com/nikhilwadh/DSA/tree/master/0846-hand-of-straights) |
 | [0973-k-closest-points-to-origin](https://github.com/nikhilwadh/DSA/tree/master/0973-k-closest-points-to-origin) |
 | [0994-rotting-oranges](https://github.com/nikhilwadh/DSA/tree/master/0994-rotting-oranges) |
@@ -310,6 +313,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0221-maximal-square](https://github.com/nikhilwadh/DSA/tree/master/0221-maximal-square) |
 | [0463-island-perimeter](https://github.com/nikhilwadh/DSA/tree/master/0463-island-perimeter) |
 | [0695-max-area-of-island](https://github.com/nikhilwadh/DSA/tree/master/0695-max-area-of-island) |
+| [0827-making-a-large-island](https://github.com/nikhilwadh/DSA/tree/master/0827-making-a-large-island) |
 | [0994-rotting-oranges](https://github.com/nikhilwadh/DSA/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/nikhilwadh/DSA/tree/master/1020-number-of-enclaves) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/nikhilwadh/DSA/tree/master/1091-shortest-path-in-binary-matrix) |
@@ -352,6 +356,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0130-surrounded-regions](https://github.com/nikhilwadh/DSA/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/nikhilwadh/DSA/tree/master/0200-number-of-islands) |
 | [0695-max-area-of-island](https://github.com/nikhilwadh/DSA/tree/master/0695-max-area-of-island) |
+| [0827-making-a-large-island](https://github.com/nikhilwadh/DSA/tree/master/0827-making-a-large-island) |
 | [1020-number-of-enclaves](https://github.com/nikhilwadh/DSA/tree/master/1020-number-of-enclaves) |
 | [1254-number-of-closed-islands](https://github.com/nikhilwadh/DSA/tree/master/1254-number-of-closed-islands) |
 ## Bidirectional Search
