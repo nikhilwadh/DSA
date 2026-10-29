@@ -279,6 +279,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1091-shortest-path-in-binary-matrix](https://github.com/nikhilwadh/DSA/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1254-number-of-closed-islands](https://github.com/nikhilwadh/DSA/tree/master/1254-number-of-closed-islands) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/nikhilwadh/DSA/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
+| [1848-minimum-distance-to-the-target-element](https://github.com/nikhilwadh/DSA/tree/master/1848-minimum-distance-to-the-target-element) |
 ## Divide and Conquer
 |  |
 | ------- |
