@@ -18,7 +18,7 @@ class Node {
 }
 */
 
-class Solution 
+/*class Solution 
 {
     public Node cloneGraph(Node node) 
     {
@@ -43,6 +43,41 @@ class Solution
                 {
                     visited.put(i, new Node(i.val));
                     q.add(i);
+                }
+
+                visited.get(curr).neighbors.add(visited.get(i));
+            }
+        }
+
+        return visited.get(node);
+    }
+}*/
+
+class Solution 
+{
+    public Node cloneGraph(Node node) 
+    {
+        if(node == null)
+        {
+            return null;
+        }
+
+        ArrayDeque<Node> q = new ArrayDeque<>();
+        HashMap<Node, Node> visited = new HashMap<>();
+
+        q.push(node);
+        visited.put(node, new Node(node.val));
+
+        while(!q.isEmpty())
+        {
+            Node curr = q.pop();
+
+            for(Node i : curr.neighbors)
+            {
+                if(!visited.containsKey(i))
+                {
+                    visited.put(i, new Node(i.val));
+                    q.push(i);
                 }
 
                 visited.get(curr).neighbors.add(visited.get(i));
